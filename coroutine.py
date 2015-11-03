@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+print "Hello World"
 
 def line_splitter(delimeter=None):
     print "Ready to Split"
