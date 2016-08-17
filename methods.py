@@ -13,3 +13,6 @@ class Foo(object):
     @staticmethod
     def static_method(args):
         pass
+
+    def new_method(self):
+        pass
