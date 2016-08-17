@@ -16,3 +16,6 @@ class Foo(object):
 
     def new_method(self):
         pass
+
+    def divide(self, x, y):
+        return x/y
